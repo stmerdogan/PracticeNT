@@ -9,7 +9,7 @@ public class C03_MDA {
  Arrayın elemanlarını kullanıcıdan alın
  daha sonra bu mda 'yi, her bir elemanı iç array elemanlarının toplamına esıt olan tek boyutlu
  bir array haline getirin
- ör-->int arr[][]={{3,4},{1,2},{8,7}} ----> {7,3,15}
+ ör-->int arr[][]={{3,4},{1,2},{8,7}}  ----> {7,3,15}
   */
     public static void main(String[] args) {
         int arr[][] = new int[3][2];
